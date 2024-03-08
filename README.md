@@ -5,13 +5,22 @@ Source: AWS Cloud Academy
 
 
 **List of modules**:  
-Module 1: Cloud Concepts Overview\n
-Module 2: Cloud Economics and Billing\n
-Module 3: AWS Global Infrastructure Overview\n
-Module 4: AWS Cloud Security\n
-Module 5: Networking and Content Delivery\n
-Module 6: Compute\n
-Module 7: Storage\n
-Module 8: Databases\n
-Module 9: Cloud Architecture\n
-Module 10: Automatic Scaling and Monitoring\n
+Module 1: Cloud Concepts Overview
+
+Module 2: Cloud Economics and Billing
+
+Module 3: AWS Global Infrastructure Overview
+
+Module 4: AWS Cloud Security
+
+Module 5: Networking and Content Delivery
+
+Module 6: Compute
+
+Module 7: Storage
+
+Module 8: Databases
+
+Module 9: Cloud Architecture
+
+Module 10: Automatic Scaling and Monitoring
